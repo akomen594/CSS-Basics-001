@@ -1,0 +1,16 @@
+p{text-align: center;}
+main{font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;}
+main{color: red}
+body{background-color:rgb(56, 111, 133);}
+footer{color: brown; font-size: 25px; font-family: fantasy;}
+footer{font-size:20px;}
+nav1{text-align: center;}
+span1{color: magenta;}
+span2{color:black}
+span3{color:rgb(20, 18, 121)}
+span4{color:red}
+.class-black-border{color:black}
+.class-selector1{color:rgb(52, 131, 15)}
+.class-selector2{color:darkturquoise}
+.class-selector3{color:hotpink}
+#green-background{background-color:green}
